@@ -3,6 +3,7 @@ body {
   color: black;
   font-family: 'Georgia, Times', "Times New Roman", serif;
   font-size: 18px;
+  padding: 0 5em;
 }
 
 h1 {
@@ -17,10 +18,9 @@ h2{
 }
 
 p{
-	text-align: center;
 }
 
-.center {
+.image_center {
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -28,4 +28,9 @@ p{
 
 img {
 	border-radius: 50%;
+}
+
+span.job_title {
+	font-weight: bold;
+	font-style: italic;
 }
