@@ -1,13 +1,13 @@
 body {
   background-color: #ffe0ea;
   color: black;
-  font-family: 'Georgia, Times', "Times New Roman", serif;
+  font-family: 'Georgia, Times', "Times New Roman", sans-serif;
   font-size: 18px;
   padding: 0 5em;
 }
 
 h1 {
-	font-family: 'Permanent Marker';
+	font-family: 'Permanent Marker', sans-serif;
 	font-size: 24px
 	font-weight: bold;
   text-align: center;
