@@ -7,7 +7,6 @@ html, body {
   font-family: 'Permanent Marker', sans-serif;
   font-size: 18px;
   margin: 0px;
-  padding: 0px;
 }
 
 .left, .right {
@@ -18,7 +17,7 @@ html, body {
   display: flex;
   flex-direction: column;
   justify-content: center; 
-  padding: 0px 30px;
+  padding: 30px 30px;
 }
 
 .left {
@@ -44,7 +43,7 @@ h2{
 
 p{
     /*text-indent: 50px;*/
-    
+
 }
 
 .pro-pic{
