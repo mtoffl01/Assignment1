@@ -1,5 +1,5 @@
 body {
-  background-color: #ffe0ea;
+  /*background-color: #ffe0ea;*/
 	background-image: linear-gradient(#ffe0ea, white);
   color: #BC8F8F;
   font-family: 'Georgia, Times', "Times New Roman", sans-serif;
@@ -11,6 +11,8 @@ body {
 .main{
 	display: flex;
 	flex-direction: column;
+	  align-items: center;
+  justify-content: center
 }
 
 h1 {
@@ -24,6 +26,7 @@ h1 {
 #homeImage {
 	height: 30%;
 	width: 30%;
+	
 	border-radius: 50%;
 	 border:2px solid #FA8072;
 	  display: block;
