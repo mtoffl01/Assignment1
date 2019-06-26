@@ -5,6 +5,8 @@ body {
   font-family: 'Georgia, Times', "Times New Roman", sans-serif;
   font-size: 18px;
   padding: 0 5em;
+	border: 5px ridge rgba(28,110,164,0.23);
+border-radius: 9px;
 }
 
 .main{
