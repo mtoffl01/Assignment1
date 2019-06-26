@@ -1,5 +1,5 @@
 body {
-  background-color: #ffe0ea;
+  background-color: #FA8072 /*#ffe0ea*/;
 	background-image: linear-gradient(#ffe0ea, white);
   color: #BC8F8F;
   font-family: 'Georgia, Times', "Times New Roman", sans-serif;
@@ -35,5 +35,5 @@ a{
 	text-decoration: none;
 	color: #BC8F8F;
 	border-radius: 30%;
-	background-color: #ffe0ea;
+	background-color: #FA8072;
 }
