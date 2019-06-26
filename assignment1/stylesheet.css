@@ -1,5 +1,6 @@
 body {
   background-color: #ffe0ea;
+	background-image: linear-gradient(#ffe0ea, white);
   color: black;
   font-family: 'Georgia, Times', "Times New Roman", sans-serif;
   font-size: 18px;
