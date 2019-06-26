@@ -16,7 +16,7 @@ border-radius: 9px;
 
 h1 {
 	font-family: 'Rubik Mono One', sans-serif;
-	text-shadow: -1px 0 #FA8072, 0 1px #FA8072, 1px 0 #FA8072, 0 -1px #FA8072;
+	text-shadow: -2px 0 #FA8072, 0 2px #FA8072, 2px 0 #FA8072, 0 -2px #FA8072;
 	font-size: 24px
 	font-weight: bold;
   text-align: center;
@@ -38,7 +38,7 @@ span.job_title {
 .homePageLink{
 	text-decoration: none;
 	color: #BC8F8F;
-	text-shadow: -2px 0 #FA8072, 0 2px #FA8072, 2px 0 #FA8072, 0 -2px #FA8072;
+	text-shadow: -1px 0 #FA8072, 0 1px #FA8072, 1px 0 #FA8072, 0 -1px #FA8072;
 	border-radius: 30%;
 	background-color: #ffe0ea;
 	padding: 10px;
