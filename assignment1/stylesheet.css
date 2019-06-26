@@ -30,3 +30,10 @@ span.job_title {
 	font-weight: bold;
 	font-style: italic;
 }
+
+a{
+	text-decoration: none;
+	color: #BC8F8F;
+	border-radius: 30%;
+	background-color: #ffe0ea;
+}
