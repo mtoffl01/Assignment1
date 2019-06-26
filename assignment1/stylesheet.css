@@ -36,7 +36,8 @@ span.job_title {
 .homePageLink{
 	text-decoration: none;
 	color: #BC8F8F;
+	text-shadow: -2px 0 #FA8072, 0 2px #FA8072, 2px 0 #FA8072, 0 -2px #FA8072;
 	border-radius: 30%;
 	background-color: #ffe0ea;
-	padding: 4px;
+	padding: 10px;
 }
