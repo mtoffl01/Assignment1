@@ -6,6 +6,7 @@ body {
   font-size: 18px;
   /*padding: 0 5em;*/
 	border-left: 6px solid #FA8072;
+	height:100%;
 }
 
 .main{
