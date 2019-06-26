@@ -32,9 +32,10 @@ span.job_title {
 	font-style: italic;
 }
 
-a{
+.homePageLink{
 	text-decoration: none;
 	color: #BC8F8F;
 	border-radius: 30%;
 	background-color: #ffe0ea;
+	padding: 4px;
 }
