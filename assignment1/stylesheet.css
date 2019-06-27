@@ -1,12 +1,18 @@
+html{
+	height:100%;
+}
+
 body {
   /*background-color: #ffe0ea;*/
 	background-image: linear-gradient(#ffe0ea, white);
   color: #BC8F8F;
   font-family: 'Georgia, Times', "Times New Roman", sans-serif;
   font-size: 18px;
-  /*padding: 0 5em;*/
+  margin: 0;
 	border-left: 6px solid #FA8072;
 	height:100%;
+	    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 .mainPage{
