@@ -40,7 +40,10 @@ h1 {
 	list-style-type: none;
 	color: #BC8F8F;
 	text-shadow: -1px 0 #FA8072, 0 1px #FA8072, 1px 0 #FA8072, 0 -1px #FA8072;
-	text-decoration: none;
+}
+
+a:link{
+  text-decoration: none!important;
 }
 
 #homeImage {	
