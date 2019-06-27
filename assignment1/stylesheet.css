@@ -15,8 +15,7 @@ body {
     background-attachment: fixed;
 }
 
-.mainPage{
-	color: black;
+#mainPage{
 	display: flex;
 	flex-direction: column;
 	  align-items: center;
