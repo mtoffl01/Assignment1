@@ -50,7 +50,4 @@ span.job_title {
 	text-decoration: none;
 	color: #BC8F8F;
 	text-shadow: -1px 0 #FA8072, 0 1px #FA8072, 1px 0 #FA8072, 0 -1px #FA8072;
-	border-radius: 30%;
-	background-color: #ffe0ea;
-	padding: 10px;
 }
