@@ -23,6 +23,10 @@ body {
   justify-content: center;
 }
 
+header {
+	display: flex;
+}
+
 h1 {
 	font-family: 'Rubik Mono One', sans-serif;
 	text-shadow: -2px 0 #FA8072, 0 2px #FA8072, 2px 0 #FA8072, 0 -2px #FA8072;
