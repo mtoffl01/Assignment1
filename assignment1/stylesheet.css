@@ -31,10 +31,7 @@ h1 {
   text-align: center;
 }
 
-#homeImage {
-	/*height: 30%;
-	width: 30%;*/
-	
+#homeImage {	
 	border-radius: 50%;
 	 border:1px solid #FA8072;
 	  display: block;
