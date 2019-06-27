@@ -9,7 +9,7 @@ body {
 	height:100%;
 }
 
-.main{
+.mainPage{
 	color: black;
 	display: flex;
 	flex-direction: column;
