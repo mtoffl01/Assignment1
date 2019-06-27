@@ -36,11 +36,11 @@ h1 {
 	color: #C71585;
 }
 
-ul{
+.navbar{
 	list-style-type: none;
-	text-decoration: none;
 	color: #BC8F8F;
 	text-shadow: -1px 0 #FA8072, 0 1px #FA8072, 1px 0 #FA8072, 0 -1px #FA8072;
+	text-decoration: none;
 }
 
 #homeImage {	
