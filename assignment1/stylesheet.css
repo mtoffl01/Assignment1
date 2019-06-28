@@ -24,7 +24,45 @@ body {
 
 header {
 	display: flex;
-	justify-content: space-around;
+	position: relative;
+	flex-direction: row;
+	justify-content: center;
+	align-items: center;
+}
+
+.navbar{
+	overflow: hidden;
+	position: absolute;
+	top: 0;
+	left: 0;
+	list-style-type: none;
+	color: #BC8F8F;
+	text-shadow: -1px 0 #FA8072, 0 1px #FA8072, 1px 0 #FA8072, 0 -1px #FA8072;
+}
+
+.dropdown {
+	overflow: hidden;
+}
+
+.dropdown .dropbtn {
+	margin: 0;
+	border: none;
+	outline: none;
+}
+
+.dropdown-content {
+	display: none;
+	position: absolute;
+	z-index: 1;
+}
+
+.dropdown-content a{
+	display: block;
+  text-align: left;
+}
+
+.dropdown:hover .dropdown-content{
+	display: block;
 }
 
 h1 {
@@ -34,12 +72,6 @@ h1 {
 	font-weight: bold;
   text-align: center;
 	color: #C71585;
-}
-
-.navbar{
-	list-style-type: none;
-	color: #BC8F8F;
-	text-shadow: -1px 0 #FA8072, 0 1px #FA8072, 1px 0 #FA8072, 0 -1px #FA8072;
 }
 
 a:link{
@@ -61,7 +93,6 @@ span.job_title {
 
 .homePageLink{
 	padding-top: 10px;
-	text-decoration: none;
 	color: #BC8F8F;
 	text-shadow: -1px 0 #FA8072, 0 1px #FA8072, 1px 0 #FA8072, 0 -1px #FA8072;
 }
